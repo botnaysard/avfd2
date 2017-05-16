@@ -225,6 +225,28 @@ a {
 	padding: 0 2em;
 }
 
+.center-text {
+	font-size: 2em;
+	margin-top: 35px;
+}
+
+.center-p {
+	text-align: center !important;
+}
+
+.location-blob h3 {
+	font-size: 1.5em;
+	margin-top: 50px;
+}
+
+.location-blob p {
+	text-align: center;
+}
+
+.location-blob a {
+	text-decoration: none !important;
+}
+
 .shop-prod-desc {
 	width: 85%;
 	margin-left: auto;
