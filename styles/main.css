@@ -488,6 +488,10 @@ a {
 	display: inline-block;
 }
 
+.fa-at {
+	font-size: 16px !important;
+}
+
 .privacy-content {
 	font-weight: 300;
 	width: 80%;
